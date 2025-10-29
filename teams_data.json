@@ -1,0 +1,18 @@
+{
+    "Real madrid": {
+        "pts": 0,
+        "win": 0,
+        "draw": 0,
+        "loss": 1,
+        "gf": 1,
+        "ga": 32
+    },
+    "Barcelona": {
+        "pts": 6,
+        "win": 2,
+        "draw": 0,
+        "loss": 0,
+        "gf": 37,
+        "ga": 2
+    }
+}
